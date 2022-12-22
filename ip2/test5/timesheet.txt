@@ -1,0 +1,4 @@
+metasebia:henok:2:3
+abebe:kebed:3:4
+bekele:kebede:4:2
+sam:kido:4:1

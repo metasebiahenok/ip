@@ -1,0 +1,7 @@
+ EMPLOYEE WEEKLY WAGE REPORT 
+
+metasebia, henok: $ 6.
+abebe, kebed: $ 12.
+bekele, kebede: $ 8.
+
+TOTAL PAY: $ 26.
